@@ -141,6 +141,13 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
+    
+body {
+background-position-x: center;
+background-position-y: bottom;
+background-size: 1250px 100%;
+  
+}
  header {
      background-color: #0004;
      padding: 30px; 
