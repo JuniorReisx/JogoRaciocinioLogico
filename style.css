@@ -140,13 +140,12 @@ footer {
     color: azure;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
     
 body {
 background-position-x: center;
-background-position-y: bottom;
-background-size: 1250px 100%;
-  
+background-position-y: center;
+
 }
  header {
      background-color: #0004;
